@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reservoir/static/js/main.dadde363.chunk.js",
+    "main.js.map": "/reservoir/static/js/main.dadde363.chunk.js.map",
+    "runtime-main.js": "/reservoir/static/js/runtime-main.86ed6ecc.js",
+    "runtime-main.js.map": "/reservoir/static/js/runtime-main.86ed6ecc.js.map",
+    "static/js/2.f5dbf35c.chunk.js": "/reservoir/static/js/2.f5dbf35c.chunk.js",
+    "static/js/2.f5dbf35c.chunk.js.map": "/reservoir/static/js/2.f5dbf35c.chunk.js.map",
+    "index.html": "/reservoir/index.html",
+    "static/js/2.f5dbf35c.chunk.js.LICENSE.txt": "/reservoir/static/js/2.f5dbf35c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86ed6ecc.js",
+    "static/js/2.f5dbf35c.chunk.js",
+    "static/js/main.dadde363.chunk.js"
+  ]
+}
