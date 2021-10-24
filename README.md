@@ -1,5 +1,5 @@
 # 臺灣即時水情
-![](./reservoir-demo.jpg)
+![](./src/reservoir-demo.jpg)
 
 > 網站連結：https://aliceyoung1997.github.io/reservoir/
 
